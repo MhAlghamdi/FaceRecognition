@@ -1,2 +1,2 @@
 # FaceRecognition
-Face recognition using alternating least NMF algorithm.
+This repository contains applications for face recognition using alternating least NMF algorithm.
