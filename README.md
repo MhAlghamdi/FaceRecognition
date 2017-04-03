@@ -1,2 +1,2 @@
 # faceRecognition
-Face recognition using NMF
+Face recognition using alternating least NMF algorithm.
