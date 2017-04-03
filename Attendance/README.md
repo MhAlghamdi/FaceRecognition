@@ -5,9 +5,7 @@ The standard database used for face recognition was collected from [AT&T Laborat
 
 ![Alt text](https://github.com/MhAlghamdi/FaceRecognition/blob/master/Attendance/Images/faces.gif "Optional title")
 
-New employees can be added to the database and recorded easily through `Main.fig` interface. Webcam name most be inculded in `Main.m` to add persons to a database by taking 10 snapshots for each person at slightly different lighting conditions and different facial expressions then comparing them with the database.
-
-GUI in the MATLAB was used to facilitate the input process of the images.
+New employees can be added to the database and recorded easily through `Main.fig` interface. Webcam name most be inculded in `Main.m` to add persons to a database by taking 10 snapshots for each person at slightly different lighting conditions and different facial expressions then comparing them with the database. The GUI in the MATLAB was used to facilitate the input process of the images.
 
 ![Alt text](https://github.com/MhAlghamdi/FaceRecognition/blob/master/Attendance/Images/main.png "Main interface")
 
