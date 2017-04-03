@@ -7,5 +7,4 @@ The standard database used for face recognition was collected from [AT&T Laborat
 
 New employees can be added to the database and recorded easily through `Main.fig` interface.
 
-![Alt text](/Users/muhannadalghamdi/Desktop/main.png "Main interface")
-
+![Alt text](https://github.com/MhAlghamdi/FaceRecognition/blob/master/Attendance/Images/main.png "Main interface")
