@@ -1,7 +1,7 @@
 # Attendance
 The algorithm of this application records the attendance of the employees or students in a facility using data extracted from their faces and comparing it to an existing database of employees faces. 
 
-The standard database used for face recognition was collected from [AT&T Laboratories Cambridge](href "title"). It contains a set of 40 distinct faces with 10 different images. The images were taken at different times, changing lighting slightly, various facial expressions and details. The size of each image is 92x112, 8-bit grey levels.
+The standard database used for face recognition was collected from [AT&T Laboratories Cambridge](http://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html "title"). It contains a set of 40 distinct faces with 10 different images. The images were taken at different times, changing lighting slightly, various facial expressions and details. The size of each image is 92x112, 8-bit grey levels.
 
 ![Alt text](https://github.com/MhAlghamdi/FaceRecognition/blob/master/Attendance/Images/faces.gif "Optional title")
 
